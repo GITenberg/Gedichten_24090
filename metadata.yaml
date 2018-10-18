@@ -24,5 +24,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Dutch poetry'
+- GITenberg
 title: Gedichten
 url: http://www.gutenberg.org/ebooks/24090
